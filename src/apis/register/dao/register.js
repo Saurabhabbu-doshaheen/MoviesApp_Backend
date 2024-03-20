@@ -11,8 +11,6 @@ async function registerUserMongo(model,reqBody) {
 
     return result;
 
-    
-
 }
 
 async function fetchAll(model,userEmail){
